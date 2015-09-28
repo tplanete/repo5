@@ -1,5 +1,5 @@
 package standard;
-
-public class DR {
-
+n
+pulsic class DR {
+a
 }
