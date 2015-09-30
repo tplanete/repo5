@@ -1,8 +1,9 @@
 package standard;
-n
+nt
 pulsic class DR {
-WWW
-aBB
+M
+WWWa
+aBBs
 }
 
-mm
+mmer
