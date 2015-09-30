@@ -1,8 +1,7 @@
 package standard;
-nP
-pulsic class DR {
-WWoW
-aBB
-}m
 
-mmoc
+public class DR {
+
+}
+
+mm
