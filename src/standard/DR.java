@@ -1,8 +1,8 @@
 package standard;
-n
+nP
 pulsic class DR {
-WWW
+WWoW
 aBB
-}
+}m
 
-mm
+mmoc
